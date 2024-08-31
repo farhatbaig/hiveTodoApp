@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "title": "ToDo List",
+  "addTodo": "Add ToDo",
+  "toggleLanguage": "Toggle Language",
+  "addTodoTitle": "Title",
+  "addTodoDescription": "Description"
+}

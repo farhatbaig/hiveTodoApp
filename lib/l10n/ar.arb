@@ -1,0 +1,8 @@
+{
+  "@@locale": "ar",
+  "title": "قائمة المهام",
+  "addTodo": "أضف مهمة",
+  "toggleLanguage": "تغيير اللغة",
+  "addTodoTitle": "العنوان",
+  "addTodoDescription": "الوصف"
+}
